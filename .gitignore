@@ -1,0 +1,7 @@
+.terraform.lock.hcl
+.terraform/
+.tfvars
+.terraformrc
+terraform.rc
+.plan
+terraform
